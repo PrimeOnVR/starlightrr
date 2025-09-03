@@ -35,12 +35,6 @@ layout:
 
 
 
-<h2 align="center">Our Development Tools</h2>
-
-<p align="center">From our dev team to your dev team. Here are some tools to help you create, faster and better.</p>
-
-
-
 {% columns %}
 {% column %}
 ### Develop like Starlight with Prism <i class="fa-flask">:flask:</i>

@@ -5,6 +5,7 @@
 * [Information](information/README.md)
   * [Official](information/official/README.md)
     * [Usage Guidelines](information/official/usage-guidelines.md)
+    * [About Us](information/official/about-us.md)
   * [Collaborations](information/collaborations.md)
   * [Relevant](information/relevant.md)
 * [People](people/README.md)
