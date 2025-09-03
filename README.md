@@ -79,7 +79,7 @@ Get rid of the difficult to use and badly looking default RR lighting engine. En
 
 <p align="center">We work with industry professionals to create the best games possible.</p>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h2><i class="fa-bolt-lightning">:bolt-lightning:</i> Spark Studios</h2></td><td><a href="https://www.sparkstudios.games/">https://www.sparkstudios.games/</a></td><td data-object-fit="cover"><a href=".gitbook/assets/Untitled532_20250902183216.jpg">Untitled532_20250902183216.jpg</a></td></tr><tr><td><h2><i class="fa-ram">:ram:</i> Squish Studios</h2></td><td><a href="https://squishstud.io/">https://squishstud.io/</a></td><td><a href=".gitbook/assets/Untitled533_20250902202235.jpg">Untitled533_20250902202235.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h2><i class="fa-bolt-lightning">:bolt-lightning:</i> Spark Studios</h2></td><td><a href="https://www.sparkstudios.games/">https://www.sparkstudios.games/</a></td><td data-object-fit="cover"><a href=".gitbook/assets/Untitled532_20250902183216.jpg">Untitled532_20250902183216.jpg</a></td></tr><tr><td><h2><i class="fa-ram">:ram:</i> Squish Studios</h2></td><td><a href="https://squishstud.io/">https://squishstud.io/</a></td><td data-object-fit="cover"><a href=".gitbook/assets/Untitled533_20250902202235.jpg">Untitled533_20250902202235.jpg</a></td></tr></tbody></table>
 
 
 
