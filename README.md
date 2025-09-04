@@ -27,7 +27,7 @@ layout:
 
 <h2 align="center">Welcome to Starlight</h2>
 
-<p align="center"><a href="https://discord.gg/2nrDX2WmEm" class="button primary" data-icon="discord">Join Discord</a> <a href="projects/rr-rooms/" class="button secondary" data-icon="house-blank">Rooms</a> <a href="home.md" class="button secondary" data-icon="book-blank">Documentation</a></p>
+<p align="center"><a href="https://discord.gg/2nrDX2WmEm" class="button primary" data-icon="discord">Join Discord</a> <a href="creations/rr-rooms/" class="button secondary" data-icon="house-blank">Rooms</a> <a href="home.md" class="button secondary" data-icon="book-blank">Documentation</a></p>
 
 
 
