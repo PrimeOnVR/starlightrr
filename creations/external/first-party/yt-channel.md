@@ -9,4 +9,4 @@ The Starlight YouTube channel is a place where Starlight uploads videos, funny m
 
 
 
-{% embed url="https://www.youtube.com/@starlightdevelop" %}
+{% embed url="https://youtube.com/@starlightdevelop" %}
