@@ -1,5 +1,5 @@
 ---
-description: The welcome page of the Starlight Wiki.
+description: The welcome page for the Starlight official website.
 hidden: true
 icon: hand-wave
 cover: .gitbook/assets/Starlight_GIF_3.gif
@@ -12,7 +12,7 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
