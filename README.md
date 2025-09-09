@@ -89,10 +89,10 @@ Get rid of the difficult to use and badly looking default RR lighting engine. En
 
 
 
-<h2 align="center">Connect with other like-minded people.</h2>
+<h2 align="center">Connect with our community.</h2>
 
-<p align="center">Join our Discord to communicate with others, and learn more about our staff in the People section of our wiki.</p>
+<p align="center">Join our discord, learn about our staff, or watch our videos to get you one step closer to understanding our goals.</p>
 
 <p align="center"></p>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord Server</strong></td><td>Join our Discord Server to get information, talk to others, and get help with issues you may encounter.</td><td><a href="https://discord.gg/2nrDX2WmEm" class="button secondary" data-icon="discord">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-user-group-simple">:user-group-simple:</i></h4></td><td><strong>People</strong></td><td>You can learn about our staff and other important people via the People section on our wiki!</td><td><a href="people/" class="button secondary" data-icon="user-group-simple">People</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord Server</strong></td><td>Join our Discord Server to get information, talk to others, and get help with issues you may encounter.</td><td><a href="https://discord.gg/2nrDX2WmEm" class="button secondary" data-icon="discord">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-user-group-simple">:user-group-simple:</i></h4></td><td><strong>People</strong></td><td>You can learn about our staff and other important people via the People section on our wiki!</td><td><a href="people/" class="button secondary" data-icon="user-group-simple">People</a></td><td></td></tr><tr><td><i class="fa-youtube">:youtube:</i></td><td><strong>Youtube Channel</strong></td><td>Subscribe to the official Starlight YouTube channel to get notified on new content about our creations.</td><td><a href="https://youtube.com/@starlightdevelop" class="button secondary" data-icon="youtube">YouTube Channel</a></td><td></td></tr></tbody></table>
