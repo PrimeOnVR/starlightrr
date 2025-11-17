@@ -24,4 +24,4 @@ When using Starlight's assets, you must follow these rules if you plan to use th
 
 
 
-These rules are all-encompassing, and if a use case is not covered, assume that it is not allowed. If you still believe it should be allowed, let us know in the [discord-server.md](../../creations/external/first-party/discord-server.md "mention").
+These rules are all-encompassing, and if a use case is not covered, assume that it is not allowed. If you still believe it should be allowed, let us know in the [discord-server.md](../creations/external/discord-server.md "mention").
