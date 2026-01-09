@@ -1,4 +1,5 @@
 ---
+description: The parts that make up Noxis.
 icon: cubes
 ---
 

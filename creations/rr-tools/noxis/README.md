@@ -1,6 +1,8 @@
 ---
 description: Starlight's OS for RR.
 icon: diamond-half-stroke
+cover: ../../../.gitbook/assets/Untitled599_20260108151105.jpg
+coverY: 0
 ---
 
 # Noxis

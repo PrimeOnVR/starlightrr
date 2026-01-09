@@ -1,4 +1,5 @@
 ---
+description: Standards on how to write commands and tags.
 icon: font-case
 ---
 
