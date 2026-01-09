@@ -17,3 +17,7 @@ ngExampleGroup - a Noxis Group
 You can do all kinds of things with these tags, such as call services in groups using the [noxis-communicator.md](../noxis-parts/noxis-communicator.md "mention"), and much, much more!
 
 Also, every Noxis service has the `noxisService` tag, allowing for easy rounding up of every available service.
+
+{% hint style="info" %}
+Noxis tags use camelCase, however, the ng and ns counts as the first word! That means, the first word of your service name should actually be capitalized!
+{% endhint %}
