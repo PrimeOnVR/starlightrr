@@ -1,0 +1,6 @@
+---
+icon: key
+---
+
+# Noxis Dictionary
+
