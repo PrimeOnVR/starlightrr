@@ -7,7 +7,7 @@ icon: comments-question-check
 
 The Noxis Communicator is what connects isolated versions of Noxis to one another. This page attempts to help you learn more about its inner workings, in an easy and quick manner.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Why Communicator runs on a Studio Object
 

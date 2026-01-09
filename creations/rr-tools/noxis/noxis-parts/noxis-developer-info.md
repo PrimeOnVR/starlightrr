@@ -7,7 +7,7 @@ icon: circle-exclamation
 
 Noxis's Developer Info system is a way to display warnings and errors when looking at a Noxis Service with Maker Pen.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 In Developer Info's default state, it is connected to [noxis-prerequisites.md](noxis-prerequisites.md "mention"), taking errors and warnings from it.
 

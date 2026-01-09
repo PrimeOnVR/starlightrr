@@ -7,7 +7,7 @@ icon: magnifying-glass
 
 The [noxis-dictionary.md](../low-level/noxis-dictionary.md "mention") search tool allows you to easily search dictionaries in Noxis throughout various parts of it. It simplifies key searching into a simple chip, allowing for better code overall.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 To use it, you must enter two things, which is the **keys you are searching for**, and the **search target**.&#x20;
 

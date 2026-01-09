@@ -6,3 +6,5 @@ icon: cube
 # Studio Object
 
 The Noxis Studio Object is the object that houses an individual Noxis service. It includes all of the [noxis-parts](../noxis-parts/ "mention"), Noxis's [rom.md](rom.md "mention"), [queued-communications.md](queued-communications.md "mention"), and everything that Noxis has to offer.
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
