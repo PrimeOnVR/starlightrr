@@ -15,6 +15,7 @@
   * [RR Tools](creations/rr-tools/README.md)
     * [Noxis](creations/rr-tools/noxis/README.md)
       * [FAQ](creations/rr-tools/noxis/faq.md)
+      * [Tutorials](creations/rr-tools/noxis/tutorials.md)
       * [Noxis Parts](creations/rr-tools/noxis/noxis-parts/README.md)
         * [Noxis Communicator](creations/rr-tools/noxis/noxis-parts/noxis-communicator.md)
         * [Noxis Prerequisites](creations/rr-tools/noxis/noxis-parts/noxis-prerequisites.md)
